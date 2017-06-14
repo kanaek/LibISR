@@ -29,8 +29,8 @@ Other related projects can be found in the Oxford Active Vision Library http://w
   - OpenNI (e.g. version 2.2.0.33)  
     REQUIRED to get live images from suitable hardware  
     also make sure you have freenect/OpenNI2-FreenectDriver if you need it  
-    available at http://structure.io/openni
-
+    available at
+    please clone the one on github : https://github.com/occipital/OpenNI2.git and compile it
 ##Build Process
 
   To compile the system, use the standard cmake approach:
